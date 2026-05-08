@@ -25,7 +25,7 @@ I believe this multidisciplinary approach helps me tackle data challenges from u
 * **Currently Learning:** Advancing my skills in Data Science and visualization.
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaborgonczi-data
+(https://github-readme-stats.vercel.app/api?username=gaborgonczi-data
 &show_icons=true&theme=dracula&bg_color=fff5e6&title_color=8b4513&text_color=5d4037&icon_color=d2691e&border_color=f5deb3)
 
 ### 📫 Let's Connect!

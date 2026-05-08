@@ -27,7 +27,7 @@ I believe this multidisciplinary approach helps me tackle data challenges from u
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaborgonczi-data
-&show_icons=true&theme=dracula&bg_color=fff5e6&title_color=8b4513&text_color=5d4037&icon_color=d2691e&border_color=f5deb3" />
+&show_icons=true&bg_color=faf3e0&title_color=d35400&text_color=5d4037&icon_color=e67e22&border_color=e0d5b1" />
 </p>
 
 ### 📫 Let's Connect!
